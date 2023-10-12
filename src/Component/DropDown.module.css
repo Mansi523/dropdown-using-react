@@ -1,7 +1,9 @@
+/* for making padding and margin 0 in the whole page */
 *{
     margin:0;
     padding:0;
 }
+/* for the container part*/
 .container{
     height:100vh;
     width:100vw;
@@ -10,12 +12,13 @@
     justify-content:center;
     align-items:center;
 }
-
+/* for the p tag */
 .center p{
     color:white !important;
     font-size:1.5rem;
     margin-bottom:30px;
 }
+/* for the dropdown */
 .dropdown{
     text-align:center;
 }
@@ -31,6 +34,7 @@
   justify-content:space-between;
   align-items:center;
 }
+/* for the options to be displayed */
 .optionSelect{
    margin-top:5px;
    width:400px;
