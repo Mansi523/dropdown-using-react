@@ -39,13 +39,13 @@ function App() {
 
 export default App;
 
-### Author
+### AUTHOR
 # Mansi Kumari
 
-### Landing page
-<a href="https://drop-down-33b95.web.app"><img src="https://i.ibb.co/qYtzyrw/Screenshot-26.png" alt="Screenshot-26" border="0" height="400" width="400"></a>
+### LANDING PAGE
+<a href="https://drop-down-33b95.web.app"><img src="https://i.ibb.co/qYtzyrw/Screenshot-26.png" alt="Screenshot-26"></a>
 
-### Demo
+### DEMO
 
- https://drop-down-33b95.web.app
+ - https://drop-down-33b95.web.app
 
