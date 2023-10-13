@@ -44,7 +44,7 @@ export default App;
 # Mansi Kumari
 
 ### LANDING PAGE
-<a href="https://drop-down-33b95.web.app"><img src="https://i.ibb.co/qYtzyrw/Screenshot-26.png" alt="Screenshot-26"></a>
+<a href="https://drop-down-33b95.web.app"><img src="https://i.ibb.co/0ygkDG3/Screenshot-26.png" alt="Screenshot-26"/></a>
 
 ### DEMO
 
